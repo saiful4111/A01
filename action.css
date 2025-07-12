@@ -1,0 +1,66 @@
+section.action {
+  position: absolute;
+  top: 814px;
+  left: 141px;
+  width: 1140px;
+  height: 328px;
+  display: flex;
+  justify-content: space-between;
+}
+
+div.explore {
+  font-family: "Acre", sans-serif;
+  font-weight: 600;
+  width: 517px;
+  height: 203px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.btn3 {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 700;
+  display: inline-block;
+  width: 229px;
+  height: 48px;
+  padding: 15px 25px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #ffffff;
+  background-color: #4e47ff;
+  border: none;
+  border-radius: 10px;
+}
+p.action {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  margin: 0;
+}
+
+p.preview {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: rgba(37, 36, 50, 0.5);
+  font-size: 24px;
+  font-weight: 400;
+  margin: 0;
+}
+
+div.wc-mini-img {
+  width: 403px;
+  height: 328px;
+}
+
+img.wc-mini-img {
+  border-radius: 48px;
+}

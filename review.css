@@ -1,0 +1,86 @@
+div.review {
+  position: absolute;
+  top: 1701px;
+  left: 141px;
+  width: 1140px;
+  height: 342px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 50px;
+  /* justify-content: space-between; */
+  /* align-items: flex-start; */
+  margin: auto;
+}
+
+.say {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 42px;
+  margin: 0;
+  padding: 0;
+  height: auto;
+  width: 100%;
+
+  text-align: center;
+}
+.review-container {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  column-gap: 20px;
+  width: 100%;
+}
+
+.review-child {
+  width: 100%;
+  height: 243px;
+  border-radius: 14px;
+  padding: 24px;
+  margin: auto;
+  box-sizing: border-box;
+  box-shadow: 0 4px 8px 0 rgba(214, 214, 214, 0.2),
+    0 6px 20px 0 rgba(182, 181, 181, 0.19);
+}
+.grandchild {
+  display: flex;
+  flex-direction: row;
+  margin: 0px;
+  gap: 10px;
+}
+.design {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.detls {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 500;
+}
+.rev-name {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 600;
+  color: rgb(117, 117, 117);
+  margin: 0px;
+}
+.date {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 400;
+  color: rgb(147, 147, 147);
+  margin: 0px;
+}
+.zoro {
+  width: 40px;
+  height: 40px;
+  border-radius: 99%;
+}
