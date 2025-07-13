@@ -39,9 +39,9 @@ div.review {
   border-radius: 14px;
   padding: 24px;
   margin: auto;
+  background-color: #ffffff;
   box-sizing: border-box;
-  box-shadow: 0 4px 8px 0 rgba(214, 214, 214, 0.2),
-    0 6px 20px 0 rgba(182, 181, 181, 0.19);
+  box-shadow: 1px #f2eded;
 }
 .grandchild {
   display: flex;
